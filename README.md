@@ -1,3 +1,28 @@
+## Dependencias Necessarias
+
+    "@expo/vector-icons": "^13.0.0",
+    "@react-native-community/viewpager": "^5.0.11",
+    "@react-native-picker/picker": "^2.6.1",
+    "@react-navigation/drawer": "^6.6.7",
+    "@react-navigation/native": "^6.1.10",
+    "@react-navigation/stack": "^6.3.21",
+    "react": "18.2.0",
+    "react-native": "0.73.4",
+    "react-native-drawer-layout": "^3.2.2",
+    "react-native-gesture-handler": "^2.15.0",
+    "react-native-modal": "^13.0.1",
+    "react-native-reanimated": "^3.7.0",
+    "react-native-safe-area-context": "^4.9.0",
+    "react-native-screens": "^3.29.0",
+    "react-native-vector-icons": "^10.0.3",
+    "react-navigation": "^5.0.0"
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
